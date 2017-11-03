@@ -1,0 +1,13 @@
+The Gabba
+200
+l1, l2, 200: 150
+l2, l3, 100: 50
+
+Tivoli
+50
+
+Suncorp Stadium
+100
+l0, l1, 100: 25
+l1, l2, 200: 70
+
