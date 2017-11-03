@@ -1,6 +1,8 @@
 # Event-Allocator-Csse2002-Assignment-3---2017-
 Event Allocator program
 
+Assignment grade: 7 out of 7
+
 Allocates Events to Venues.. Can load Venues from file..
 
 
